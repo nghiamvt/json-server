@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "json-server": "^0.15.0"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
