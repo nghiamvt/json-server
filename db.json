@@ -9,7 +9,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 11,
@@ -119,7 +129,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 12,
@@ -130,7 +141,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 13,
@@ -141,7 +153,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 14,
@@ -152,7 +165,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 15,
@@ -163,7 +177,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 16,
@@ -174,7 +189,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 17,
@@ -185,7 +201,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 18,
@@ -196,7 +213,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 19,
@@ -207,7 +225,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 20,
@@ -218,7 +237,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 21,
@@ -229,7 +249,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 22,
@@ -240,7 +261,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 23,
@@ -251,7 +273,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 24,
@@ -262,7 +285,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 25,
@@ -273,7 +297,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 26,
@@ -284,7 +309,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 27,
@@ -295,7 +321,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 28,
@@ -306,7 +333,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 29,
@@ -317,7 +345,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 30,
@@ -328,7 +357,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 31,
@@ -339,7 +369,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 32,
@@ -350,7 +381,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 33,
@@ -361,7 +393,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 34,
@@ -372,7 +405,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 35,
@@ -383,7 +417,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 36,
@@ -394,7 +429,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 37,
@@ -405,7 +441,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 38,
@@ -416,7 +453,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 39,
@@ -427,7 +465,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 40,
@@ -438,7 +477,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 41,
@@ -449,7 +489,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 42,
@@ -460,7 +501,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 43,
@@ -471,7 +513,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 44,
@@ -482,7 +525,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 45,
@@ -493,7 +537,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 46,
@@ -504,7 +549,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 47,
@@ -515,7 +561,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 48,
@@ -526,7 +573,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 49,
@@ -537,7 +585,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 50,
@@ -548,7 +597,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 51,
@@ -559,7 +609,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 52,
@@ -570,7 +621,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 53,
@@ -581,7 +633,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 54,
@@ -592,7 +645,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 55,
@@ -603,7 +657,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 56,
@@ -614,7 +669,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 57,
@@ -625,7 +681,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 58,
@@ -636,7 +693,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 59,
@@ -647,7 +705,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 60,
@@ -658,7 +717,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 61,
@@ -669,7 +729,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 62,
@@ -680,7 +741,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 63,
@@ -691,7 +753,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 64,
@@ -702,7 +765,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 65,
@@ -713,7 +777,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 66,
@@ -724,7 +789,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 67,
@@ -735,7 +801,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 68,
@@ -746,7 +813,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 69,
@@ -757,7 +825,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 70,
@@ -768,7 +837,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 71,
@@ -779,7 +849,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 72,
@@ -790,7 +861,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 73,
@@ -801,7 +873,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 74,
@@ -812,7 +885,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 75,
@@ -823,7 +897,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 76,
@@ -834,7 +909,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 77,
@@ -845,7 +921,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 78,
@@ -856,7 +933,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 79,
@@ -867,7 +945,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 80,
@@ -878,7 +957,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 81,
@@ -889,7 +969,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 82,
@@ -900,7 +981,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 83,
@@ -911,7 +993,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 84,
@@ -922,7 +1005,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 85,
@@ -933,7 +1017,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 86,
@@ -944,7 +1029,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 87,
@@ -955,7 +1041,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 88,
@@ -966,7 +1053,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 89,
@@ -977,7 +1065,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 90,
@@ -988,7 +1077,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 91,
@@ -999,7 +1089,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 92,
@@ -1010,7 +1101,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 93,
@@ -1021,7 +1113,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 94,
@@ -1032,7 +1125,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 95,
@@ -1043,7 +1137,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 96,
@@ -1054,7 +1149,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 97,
@@ -1065,7 +1161,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 98,
@@ -1076,7 +1173,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 99,
@@ -1087,7 +1185,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 100,
@@ -1098,7 +1197,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 101,
@@ -1109,7 +1209,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 102,
@@ -1120,7 +1221,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 103,
@@ -1131,7 +1233,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 104,
@@ -1142,7 +1245,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 105,
@@ -1153,7 +1257,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 106,
@@ -1164,7 +1269,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 107,
@@ -1175,7 +1281,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 108,
@@ -1186,7 +1293,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 109,
@@ -1197,7 +1305,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 110,
@@ -1208,7 +1317,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 111,
@@ -1219,7 +1329,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 112,
@@ -1230,7 +1341,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 113,
@@ -1241,7 +1353,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 114,
@@ -1252,7 +1365,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 115,
@@ -1263,7 +1377,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 116,
@@ -1274,7 +1389,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 117,
@@ -1285,7 +1401,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 118,
@@ -1296,7 +1413,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 119,
@@ -1307,7 +1425,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 120,
@@ -1318,7 +1437,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 121,
@@ -1329,7 +1449,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 122,
@@ -1340,7 +1461,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 123,
@@ -1351,7 +1473,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 124,
@@ -1362,7 +1485,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 125,
@@ -1373,7 +1497,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 126,
@@ -1384,7 +1509,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 127,
@@ -1395,7 +1521,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 128,
@@ -1406,7 +1533,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 129,
@@ -1417,7 +1545,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 130,
@@ -1428,7 +1557,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 131,
@@ -1439,7 +1569,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 132,
@@ -1450,7 +1581,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 133,
@@ -1461,7 +1593,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 134,
@@ -1472,7 +1605,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 135,
@@ -1483,7 +1617,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 136,
@@ -1494,7 +1629,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 137,
@@ -1505,7 +1641,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 138,
@@ -1516,7 +1653,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 139,
@@ -1527,7 +1665,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 140,
@@ -1538,7 +1677,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 141,
@@ -1549,7 +1689,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 142,
@@ -1560,7 +1701,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 143,
@@ -1571,7 +1713,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 144,
@@ -1582,7 +1725,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 145,
@@ -1593,7 +1737,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 146,
@@ -1604,7 +1749,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 147,
@@ -1615,7 +1761,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 148,
@@ -1626,7 +1773,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 149,
@@ -1637,7 +1785,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 150,
@@ -1648,7 +1797,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 151,
@@ -1659,7 +1809,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 152,
@@ -1670,7 +1821,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 153,
@@ -1681,7 +1833,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 154,
@@ -1692,7 +1845,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 155,
@@ -1703,7 +1857,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 156,
@@ -1714,7 +1869,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 157,
@@ -1725,7 +1881,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 158,
@@ -1736,7 +1893,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 159,
@@ -1747,7 +1905,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 160,
@@ -1758,7 +1917,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 161,
@@ -1769,7 +1929,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 162,
@@ -1780,7 +1941,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 163,
@@ -1791,7 +1953,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 164,
@@ -1802,7 +1965,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 165,
@@ -1813,7 +1977,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 166,
@@ -1824,7 +1989,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 167,
@@ -1835,7 +2001,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 168,
@@ -1846,7 +2013,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 169,
@@ -1857,7 +2025,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 170,
@@ -1868,7 +2037,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 171,
@@ -1879,7 +2049,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 172,
@@ -1890,7 +2061,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 173,
@@ -1901,7 +2073,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 174,
@@ -1912,7 +2085,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Missing required information in details"
     },
     {
       "id": 175,
@@ -1923,7 +2097,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 176,
@@ -1934,7 +2109,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 177,
@@ -1945,7 +2121,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 178,
@@ -1956,7 +2133,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 179,
@@ -1967,7 +2145,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 180,
@@ -1978,7 +2157,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 181,
@@ -1989,7 +2169,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 182,
@@ -2000,7 +2181,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 183,
@@ -2011,7 +2193,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 184,
@@ -2022,7 +2205,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 185,
@@ -2033,7 +2217,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 186,
@@ -2044,7 +2229,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 187,
@@ -2055,7 +2241,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 188,
@@ -2066,7 +2253,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 189,
@@ -2077,7 +2265,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 190,
@@ -2088,7 +2277,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Missing required information in details"
     },
     {
       "id": 191,
@@ -2099,7 +2289,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 192,
@@ -2110,7 +2301,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 193,
@@ -2121,7 +2313,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 194,
@@ -2132,7 +2325,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Missing required information in details"
     },
     {
       "id": 195,
@@ -2143,7 +2337,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 196,
@@ -2154,7 +2349,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 197,
@@ -2165,7 +2361,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 3
+      "status": 3,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 198,
@@ -2176,7 +2373,8 @@
       "display": true,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 1
+      "status": 1,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 199,
@@ -2187,7 +2385,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 200,
@@ -2198,7 +2397,8 @@
       "display": false,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "status": 2
+      "status": 2,
+      "reason": "Content not align with the product uploaded."
     }
   ],
   "dso": [
@@ -2210,7 +2410,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100101
+      "sku": 90100101,
+      "reason": "Missing required information in details"
     },
     {
       "id": 2,
@@ -2220,7 +2421,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100102
+      "sku": 90100102,
+      "reason": "Missing required information in details"
     },
     {
       "id": 3,
@@ -2230,7 +2432,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100103
+      "sku": 90100103,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 4,
@@ -2240,7 +2443,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100104
+      "sku": 90100104,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 5,
@@ -2250,7 +2454,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100105
+      "sku": 90100105,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 6,
@@ -2260,7 +2465,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100106
+      "sku": 90100106,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 7,
@@ -2270,7 +2476,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100107
+      "sku": 90100107,
+      "reason": "Missing required information in details"
     },
     {
       "id": 8,
@@ -2280,7 +2487,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100108
+      "sku": 90100108,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 9,
@@ -2290,7 +2498,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100109
+      "sku": 90100109,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 10,
@@ -2300,7 +2509,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100110
+      "sku": 90100110,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 11,
@@ -2310,7 +2520,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100111
+      "sku": 90100111,
+      "reason": "Missing required information in details"
     },
     {
       "id": 12,
@@ -2320,7 +2531,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100112
+      "sku": 90100112,
+      "reason": "Missing required information in details"
     },
     {
       "id": 13,
@@ -2330,7 +2542,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100113
+      "sku": 90100113,
+      "reason": "Missing required information in details"
     },
     {
       "id": 14,
@@ -2340,7 +2553,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100114
+      "sku": 90100114,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 15,
@@ -2350,7 +2564,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100115
+      "sku": 90100115,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 16,
@@ -2360,7 +2575,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100116
+      "sku": 90100116,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 17,
@@ -2370,7 +2586,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100117
+      "sku": 90100117,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 18,
@@ -2380,7 +2597,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100118
+      "sku": 90100118,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 19,
@@ -2390,7 +2608,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100119
+      "sku": 90100119,
+      "reason": "Missing required information in details"
     },
     {
       "id": 20,
@@ -2400,7 +2619,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100120
+      "sku": 90100120,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 21,
@@ -2410,7 +2630,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100121
+      "sku": 90100121,
+      "reason": "Missing required information in details"
     },
     {
       "id": 22,
@@ -2420,7 +2641,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100122
+      "sku": 90100122,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 23,
@@ -2430,7 +2652,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100123
+      "sku": 90100123,
+      "reason": "Missing required information in details"
     },
     {
       "id": 24,
@@ -2440,7 +2663,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100124
+      "sku": 90100124,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 25,
@@ -2450,7 +2674,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100125
+      "sku": 90100125,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 26,
@@ -2460,7 +2685,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100126
+      "sku": 90100126,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 27,
@@ -2470,7 +2696,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100127
+      "sku": 90100127,
+      "reason": "Missing required information in details"
     },
     {
       "id": 28,
@@ -2480,7 +2707,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100128
+      "sku": 90100128,
+      "reason": "Missing required information in details"
     },
     {
       "id": 29,
@@ -2490,7 +2718,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100129
+      "sku": 90100129,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 30,
@@ -2500,7 +2729,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100130
+      "sku": 90100130,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 31,
@@ -2510,7 +2740,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100131
+      "sku": 90100131,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 32,
@@ -2520,7 +2751,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100132
+      "sku": 90100132,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 33,
@@ -2530,7 +2762,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100133
+      "sku": 90100133,
+      "reason": "Missing required information in details"
     },
     {
       "id": 34,
@@ -2540,7 +2773,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100134
+      "sku": 90100134,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 35,
@@ -2550,7 +2784,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100135
+      "sku": 90100135,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 36,
@@ -2560,7 +2795,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100136
+      "sku": 90100136,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 37,
@@ -2570,7 +2806,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100137
+      "sku": 90100137,
+      "reason": "Missing required information in details"
     },
     {
       "id": 38,
@@ -2580,7 +2817,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100138
+      "sku": 90100138,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 39,
@@ -2590,7 +2828,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100139
+      "sku": 90100139,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 40,
@@ -2600,7 +2839,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100140
+      "sku": 90100140,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 41,
@@ -2610,7 +2850,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100141
+      "sku": 90100141,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 42,
@@ -2620,7 +2861,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100142
+      "sku": 90100142,
+      "reason": "Missing required information in details"
     },
     {
       "id": 43,
@@ -2630,7 +2872,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100143
+      "sku": 90100143,
+      "reason": "Missing required information in details"
     },
     {
       "id": 44,
@@ -2640,7 +2883,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100144
+      "sku": 90100144,
+      "reason": "Missing required information in details"
     },
     {
       "id": 45,
@@ -2650,7 +2894,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100145
+      "sku": 90100145,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 46,
@@ -2660,7 +2905,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100146
+      "sku": 90100146,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 47,
@@ -2670,7 +2916,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100147
+      "sku": 90100147,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 48,
@@ -2680,7 +2927,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100148
+      "sku": 90100148,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 49,
@@ -2690,7 +2938,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100149
+      "sku": 90100149,
+      "reason": "Missing required information in details"
     },
     {
       "id": 50,
@@ -2700,7 +2949,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100150
+      "sku": 90100150,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 51,
@@ -2710,7 +2960,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100151
+      "sku": 90100151,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 52,
@@ -2720,7 +2971,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100152
+      "sku": 90100152,
+      "reason": "Missing required information in details"
     },
     {
       "id": 53,
@@ -2730,7 +2982,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100153
+      "sku": 90100153,
+      "reason": "Missing required information in details"
     },
     {
       "id": 54,
@@ -2740,7 +2993,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100154
+      "sku": 90100154,
+      "reason": "Missing required information in details"
     },
     {
       "id": 55,
@@ -2750,7 +3004,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100155
+      "sku": 90100155,
+      "reason": "Missing required information in details"
     },
     {
       "id": 56,
@@ -2760,7 +3015,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100156
+      "sku": 90100156,
+      "reason": "Missing required information in details"
     },
     {
       "id": 57,
@@ -2770,7 +3026,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100157
+      "sku": 90100157,
+      "reason": "Missing required information in details"
     },
     {
       "id": 58,
@@ -2780,7 +3037,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100158
+      "sku": 90100158,
+      "reason": "Missing required information in details"
     },
     {
       "id": 59,
@@ -2790,7 +3048,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100159
+      "sku": 90100159,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 60,
@@ -2800,7 +3059,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100160
+      "sku": 90100160,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 61,
@@ -2810,7 +3070,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100161
+      "sku": 90100161,
+      "reason": "Missing required information in details"
     },
     {
       "id": 62,
@@ -2820,7 +3081,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100162
+      "sku": 90100162,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 63,
@@ -2830,7 +3092,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100163
+      "sku": 90100163,
+      "reason": "Missing required information in details"
     },
     {
       "id": 64,
@@ -2840,7 +3103,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100164
+      "sku": 90100164,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 65,
@@ -2850,7 +3114,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100165
+      "sku": 90100165,
+      "reason": "Missing required information in details"
     },
     {
       "id": 66,
@@ -2860,7 +3125,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100166
+      "sku": 90100166,
+      "reason": "Missing required information in details"
     },
     {
       "id": 67,
@@ -2870,7 +3136,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100167
+      "sku": 90100167,
+      "reason": "Missing required information in details"
     },
     {
       "id": 68,
@@ -2880,7 +3147,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100168
+      "sku": 90100168,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 69,
@@ -2890,7 +3158,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100169
+      "sku": 90100169,
+      "reason": "Missing required information in details"
     },
     {
       "id": 70,
@@ -2900,7 +3169,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100170
+      "sku": 90100170,
+      "reason": "Missing required information in details"
     },
     {
       "id": 71,
@@ -2910,7 +3180,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100171
+      "sku": 90100171,
+      "reason": "Missing required information in details"
     },
     {
       "id": 72,
@@ -2920,7 +3191,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100172
+      "sku": 90100172,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 73,
@@ -2930,7 +3202,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100173
+      "sku": 90100173,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 74,
@@ -2940,7 +3213,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100174
+      "sku": 90100174,
+      "reason": "Missing required information in details"
     },
     {
       "id": 75,
@@ -2950,7 +3224,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100175
+      "sku": 90100175,
+      "reason": "Missing required information in details"
     },
     {
       "id": 76,
@@ -2960,7 +3235,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100176
+      "sku": 90100176,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 77,
@@ -2970,7 +3246,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100177
+      "sku": 90100177,
+      "reason": "Missing required information in details"
     },
     {
       "id": 78,
@@ -2980,7 +3257,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100178
+      "sku": 90100178,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 79,
@@ -2990,7 +3268,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100179
+      "sku": 90100179,
+      "reason": "Missing required information in details"
     },
     {
       "id": 80,
@@ -3000,7 +3279,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100180
+      "sku": 90100180,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 81,
@@ -3010,7 +3290,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100181
+      "sku": 90100181,
+      "reason": "Missing required information in details"
     },
     {
       "id": 82,
@@ -3020,7 +3301,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100182
+      "sku": 90100182,
+      "reason": "Missing required information in details"
     },
     {
       "id": 83,
@@ -3030,7 +3312,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100183
+      "sku": 90100183,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 84,
@@ -3040,7 +3323,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100184
+      "sku": 90100184,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 85,
@@ -3050,7 +3334,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100185
+      "sku": 90100185,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 86,
@@ -3060,7 +3345,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100186
+      "sku": 90100186,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 87,
@@ -3070,7 +3356,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100187
+      "sku": 90100187,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 88,
@@ -3080,7 +3367,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100188
+      "sku": 90100188,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 89,
@@ -3090,7 +3378,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100189
+      "sku": 90100189,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 90,
@@ -3100,7 +3389,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100190
+      "sku": 90100190,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 91,
@@ -3110,7 +3400,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100191
+      "sku": 90100191,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 92,
@@ -3120,7 +3411,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100192
+      "sku": 90100192,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 93,
@@ -3130,7 +3422,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100193
+      "sku": 90100193,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 94,
@@ -3140,7 +3433,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100194
+      "sku": 90100194,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 95,
@@ -3150,7 +3444,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100195
+      "sku": 90100195,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 96,
@@ -3160,7 +3455,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100196
+      "sku": 90100196,
+      "reason": "Missing required information in details"
     },
     {
       "id": 97,
@@ -3170,7 +3466,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100197
+      "sku": 90100197,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 98,
@@ -3180,7 +3477,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100198
+      "sku": 90100198,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 99,
@@ -3190,7 +3488,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100199
+      "sku": 90100199,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 100,
@@ -3200,7 +3499,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100200
+      "sku": 90100200,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 101,
@@ -3210,7 +3510,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100201
+      "sku": 90100201,
+      "reason": "Missing required information in details"
     },
     {
       "id": 102,
@@ -3220,7 +3521,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100202
+      "sku": 90100202,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 103,
@@ -3230,7 +3532,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100203
+      "sku": 90100203,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 104,
@@ -3240,7 +3543,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100204
+      "sku": 90100204,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 105,
@@ -3250,7 +3554,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100205
+      "sku": 90100205,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 106,
@@ -3260,7 +3565,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100206
+      "sku": 90100206,
+      "reason": "Missing required information in details"
     },
     {
       "id": 107,
@@ -3270,7 +3576,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100207
+      "sku": 90100207,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 108,
@@ -3280,7 +3587,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100208
+      "sku": 90100208,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 109,
@@ -3290,7 +3598,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100209
+      "sku": 90100209,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 110,
@@ -3300,7 +3609,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100210
+      "sku": 90100210,
+      "reason": "Missing required information in details"
     },
     {
       "id": 111,
@@ -3310,7 +3620,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100211
+      "sku": 90100211,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 112,
@@ -3320,7 +3631,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100212
+      "sku": 90100212,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 113,
@@ -3330,7 +3642,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100213
+      "sku": 90100213,
+      "reason": "Missing required information in details"
     },
     {
       "id": 114,
@@ -3340,7 +3653,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100214
+      "sku": 90100214,
+      "reason": "Missing required information in details"
     },
     {
       "id": 115,
@@ -3350,7 +3664,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100215
+      "sku": 90100215,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 116,
@@ -3360,7 +3675,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100216
+      "sku": 90100216,
+      "reason": "Missing required information in details"
     },
     {
       "id": 117,
@@ -3370,7 +3686,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100217
+      "sku": 90100217,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 118,
@@ -3380,7 +3697,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100218
+      "sku": 90100218,
+      "reason": "Missing required information in details"
     },
     {
       "id": 119,
@@ -3390,7 +3708,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100219
+      "sku": 90100219,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 120,
@@ -3400,7 +3719,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100220
+      "sku": 90100220,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 121,
@@ -3410,7 +3730,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100221
+      "sku": 90100221,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 122,
@@ -3420,7 +3741,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100222
+      "sku": 90100222,
+      "reason": "Missing required information in details"
     },
     {
       "id": 123,
@@ -3430,7 +3752,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100223
+      "sku": 90100223,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 124,
@@ -3440,7 +3763,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100224
+      "sku": 90100224,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 125,
@@ -3450,7 +3774,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100225
+      "sku": 90100225,
+      "reason": "Missing required information in details"
     },
     {
       "id": 126,
@@ -3460,7 +3785,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100226
+      "sku": 90100226,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 127,
@@ -3470,7 +3796,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100227
+      "sku": 90100227,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 128,
@@ -3480,7 +3807,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100228
+      "sku": 90100228,
+      "reason": "Missing required information in details"
     },
     {
       "id": 129,
@@ -3490,7 +3818,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100229
+      "sku": 90100229,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 130,
@@ -3500,7 +3829,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100230
+      "sku": 90100230,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 131,
@@ -3510,7 +3840,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100231
+      "sku": 90100231,
+      "reason": "Missing required information in details"
     },
     {
       "id": 132,
@@ -3520,7 +3851,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100232
+      "sku": 90100232,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 133,
@@ -3530,7 +3862,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100233
+      "sku": 90100233,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 134,
@@ -3540,7 +3873,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100234
+      "sku": 90100234,
+      "reason": "Missing required information in details"
     },
     {
       "id": 135,
@@ -3550,7 +3884,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100235
+      "sku": 90100235,
+      "reason": "Missing required information in details"
     },
     {
       "id": 136,
@@ -3560,7 +3895,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100236
+      "sku": 90100236,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 137,
@@ -3570,7 +3906,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100237
+      "sku": 90100237,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 138,
@@ -3580,7 +3917,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100238
+      "sku": 90100238,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 139,
@@ -3590,7 +3928,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100239
+      "sku": 90100239,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 140,
@@ -3600,7 +3939,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100240
+      "sku": 90100240,
+      "reason": "Missing required information in details"
     },
     {
       "id": 141,
@@ -3610,7 +3950,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100241
+      "sku": 90100241,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 142,
@@ -3620,7 +3961,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100242
+      "sku": 90100242,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 143,
@@ -3630,7 +3972,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100243
+      "sku": 90100243,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 144,
@@ -3640,7 +3983,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100244
+      "sku": 90100244,
+      "reason": "Missing required information in details"
     },
     {
       "id": 145,
@@ -3650,7 +3994,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100245
+      "sku": 90100245,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 146,
@@ -3660,7 +4005,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100246
+      "sku": 90100246,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 147,
@@ -3670,7 +4016,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100247
+      "sku": 90100247,
+      "reason": "Missing required information in details"
     },
     {
       "id": 148,
@@ -3680,7 +4027,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100248
+      "sku": 90100248,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 149,
@@ -3690,7 +4038,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100249
+      "sku": 90100249,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 150,
@@ -3700,7 +4049,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100250
+      "sku": 90100250,
+      "reason": "Missing required information in details"
     },
     {
       "id": 151,
@@ -3710,7 +4060,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100251
+      "sku": 90100251,
+      "reason": "Missing required information in details"
     },
     {
       "id": 152,
@@ -3720,7 +4071,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100252
+      "sku": 90100252,
+      "reason": "Missing required information in details"
     },
     {
       "id": 153,
@@ -3730,7 +4082,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100253
+      "sku": 90100253,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 154,
@@ -3740,7 +4093,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100254
+      "sku": 90100254,
+      "reason": "Missing required information in details"
     },
     {
       "id": 155,
@@ -3750,7 +4104,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100255
+      "sku": 90100255,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 156,
@@ -3760,7 +4115,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100256
+      "sku": 90100256,
+      "reason": "Missing required information in details"
     },
     {
       "id": 157,
@@ -3770,7 +4126,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100257
+      "sku": 90100257,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 158,
@@ -3780,7 +4137,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100258
+      "sku": 90100258,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 159,
@@ -3790,7 +4148,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100259
+      "sku": 90100259,
+      "reason": "Missing required information in details"
     },
     {
       "id": 160,
@@ -3800,7 +4159,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100260
+      "sku": 90100260,
+      "reason": "Missing required information in details"
     },
     {
       "id": 161,
@@ -3810,7 +4170,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100261
+      "sku": 90100261,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 162,
@@ -3820,7 +4181,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100262
+      "sku": 90100262,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 163,
@@ -3830,7 +4192,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100263
+      "sku": 90100263,
+      "reason": "Missing required information in details"
     },
     {
       "id": 164,
@@ -3840,7 +4203,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100264
+      "sku": 90100264,
+      "reason": "Missing required information in details"
     },
     {
       "id": 165,
@@ -3850,7 +4214,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100265
+      "sku": 90100265,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 166,
@@ -3860,7 +4225,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100266
+      "sku": 90100266,
+      "reason": "Missing required information in details"
     },
     {
       "id": 167,
@@ -3870,7 +4236,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100267
+      "sku": 90100267,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 168,
@@ -3880,7 +4247,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100268
+      "sku": 90100268,
+      "reason": "Missing required information in details"
     },
     {
       "id": 169,
@@ -3890,7 +4258,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100269
+      "sku": 90100269,
+      "reason": "Missing required information in details"
     },
     {
       "id": 170,
@@ -3900,7 +4269,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100270
+      "sku": 90100270,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 171,
@@ -3910,7 +4280,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100271
+      "sku": 90100271,
+      "reason": "Missing required information in details"
     },
     {
       "id": 172,
@@ -3920,7 +4291,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100272
+      "sku": 90100272,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 173,
@@ -3930,7 +4302,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100273
+      "sku": 90100273,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 174,
@@ -3940,7 +4313,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100274
+      "sku": 90100274,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 175,
@@ -3950,7 +4324,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100275
+      "sku": 90100275,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 176,
@@ -3960,7 +4335,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100276
+      "sku": 90100276,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 177,
@@ -3970,7 +4346,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100277
+      "sku": 90100277,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 178,
@@ -3980,7 +4357,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100278
+      "sku": 90100278,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 179,
@@ -3990,7 +4368,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100279
+      "sku": 90100279,
+      "reason": "Missing required information in details"
     },
     {
       "id": 180,
@@ -4000,7 +4379,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100280
+      "sku": 90100280,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 181,
@@ -4010,7 +4390,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100281
+      "sku": 90100281,
+      "reason": "Missing required information in details"
     },
     {
       "id": 182,
@@ -4020,7 +4401,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100282
+      "sku": 90100282,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 183,
@@ -4030,7 +4412,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100283
+      "sku": 90100283,
+      "reason": "Missing required information in details"
     },
     {
       "id": 184,
@@ -4040,7 +4423,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100284
+      "sku": 90100284,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 185,
@@ -4050,7 +4434,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100285
+      "sku": 90100285,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 186,
@@ -4060,7 +4445,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100286
+      "sku": 90100286,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 187,
@@ -4070,7 +4456,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100287
+      "sku": 90100287,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 188,
@@ -4080,7 +4467,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100288
+      "sku": 90100288,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 189,
@@ -4090,7 +4478,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100289
+      "sku": 90100289,
+      "reason": "Missing required information in details"
     },
     {
       "id": 190,
@@ -4100,7 +4489,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100290
+      "sku": 90100290,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 191,
@@ -4110,7 +4500,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100291
+      "sku": 90100291,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 192,
@@ -4120,7 +4511,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100292
+      "sku": 90100292,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 193,
@@ -4130,7 +4522,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100293
+      "sku": 90100293,
+      "reason": "Missing required information in details"
     },
     {
       "id": 194,
@@ -4140,7 +4533,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100294
+      "sku": 90100294,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 195,
@@ -4150,7 +4544,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100295
+      "sku": 90100295,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 196,
@@ -4160,7 +4555,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100296
+      "sku": 90100296,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 197,
@@ -4170,7 +4566,8 @@
       "status": 1,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100297
+      "sku": 90100297,
+      "reason": "Content not align with the product uploaded."
     },
     {
       "id": 198,
@@ -4180,7 +4577,8 @@
       "status": 3,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100298
+      "sku": 90100298,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     },
     {
       "id": 199,
@@ -4190,7 +4588,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100299
+      "sku": 90100299,
+      "reason": "Missing required information in details"
     },
     {
       "id": 200,
@@ -4200,7 +4599,8 @@
       "status": 2,
       "createdAt": 1563183270,
       "updatedAt": 1563183270,
-      "sku": 90100300
+      "sku": 90100300,
+      "reason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
     }
   ]
 }
